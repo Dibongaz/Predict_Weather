@@ -26,18 +26,6 @@ To complete this project, you'll need to have a good understanding of:
 * Pandas syntax
 * Using Jupyter notebook
 
-You'll also need to know the basics of machine learning.
-
-Please make sure you've completed these Dataquest courses (or know the material) before trying this project:
-
-* [Python Introduction](https://www.dataquest.io/course/introduction-to-python/)
-* [For Loops and If Statements](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)
-* [Dictionaries In Python](https://www.dataquest.io/course/dictionaries-frequency-tables-and-functions-in-python/)
-* [Functions and Jupyter Notebook](https://www.dataquest.io/course/python-functions-and-jupyter-notebook/)
-* [Python Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
-* [Pandas and NumPy Fundamentals](https://www.dataquest.io/course/pandas-fundamentals/)
-* [Data Cleaning](https://www.dataquest.io/course/python-datacleaning/)
-* [Machine Learning Fundamentals](https://www.dataquest.io/course/machine-learning-fundamentals/)
 
 # Local Setup
 
