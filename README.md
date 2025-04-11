@@ -11,8 +11,6 @@ In this project, we'll predict tomorrow's temperature using historical data.  We
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/temperature_prediction)
-
 File overview:
 
 * `predict.ipynb` - predict the temperature
